@@ -3,8 +3,6 @@ import os
 import time
 
 
-
-
 def add_100(numbers,lock):
     for i in range(100):
         time.sleep(0.01)
